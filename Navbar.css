@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    background-color: lightgoldenrodyellow;
+
+}
+ 
+
+.title{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+}
+.profile{
+    width: 30px;
+    height: 30px;
+}
+.head{
+    font-family: "Emblema One", system-ui;
+    font-size: 40px;
+    
+}
